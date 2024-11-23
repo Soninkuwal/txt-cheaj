@@ -1,3 +1,5 @@
+import os
+
 # config.py
 BOT_NAME = "TXTKANHA1BOT"
 BOT_TOKEN = int(os.environ.get("BOT_TOKEN", ""))
